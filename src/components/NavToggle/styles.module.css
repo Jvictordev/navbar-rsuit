@@ -1,0 +1,9 @@
+.style-nav {
+  border-top: 0.1rem solid #f1f5f9;
+}
+
+.nav-icon-custom {
+  /* color: var(--body-color) !important; */
+  text-align: center;
+  font-size: var(--large-font-size) !important;
+}

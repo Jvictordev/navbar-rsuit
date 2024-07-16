@@ -1,0 +1,8 @@
+.header {
+  height: 70px;
+  padding: 0 20px;
+}
+.rs-theme-dark .header .search-input input {
+  border: 1px solid var(--rs-border-primary);
+  background: var(--rs-input-bg);
+}
